@@ -1,0 +1,62 @@
+/* CSS Document */
+
+* {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+        background: transparent;
+    }
+html { height: 100%; }
+body{height: 100%}
+
+label.texter{
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+
+}
+
+*.regentry{
+	background: #fff;
+	width: 100px;
+	float:right;
+	
+}
+
+#TitleDiv{
+	height: 35px;
+	background:#996666;
+	
+}
+
+#Title{
+	position: relative;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	align-content: center;
+	margin-left: 10px;
+}
+
+#LoginDiv{
+	position: relative;
+	height: 100%;
+	background: #b3b3b3;
+	width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+	
+}
+
+#CenteredLogin{
+	background: #41A7B7;
+	width: fit-content;
+	height: fit-content;
+	margin: auto;
+
+	
+	
+}
+
